@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new ballad, called, the Protestants prophesie Wherein is plainly set forth the difficulty of clearing our native country, of those that infest us, called Papists. To the tune of, When covetousness out of England will run.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27222</idno><idno type="EEBO-CITATION">99830072</idno>
+  <idno type="VID">206980</idno>
+  <idno type="EEBO-PROQUEST">2248497818</idno>
+  
+            <idno type="STC">Wing N556A</idno>
+            <idno type="PROQUEST">99830072</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99830072e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27222)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206980)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1872:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new ballad, called, the Protestants prophesie Wherein is plainly set forth the difficulty of clearing our native country, of those that infest us, called Papists. To the tune of, When covetousness out of England will run.</title>
+               </titleStmt>
+               <extent>1 sheet ([1]) p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for F. Coles, T. Vere, J. Wright, and J. Clarke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Verse - "Come hearken to me whilst the truth I do write,".</note>
+                  <note>With three woodcut illustrations.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:206980:1"/>
+            <head>A New Ballad, called, The Protestants Prophesie. Wherein is plainly set forth the Difficulty of Clearing our Native Country, of those that Infest us, called PAPISTS. </head>
+            <opener>To the Tune of, <hi>When Covetousness out of</hi> England <hi>will run.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>a man standing on a globe, singing</figDesc>
+                  <p>When all things act contrary</p>
+               </figure>
+               <figure>
+                  <figDesc>rural scene with two men (one playing a clarinet) and two goats</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>a traveller singing</figDesc>
+                  <p>have at thy <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ny Jone.</p>
+               </figure>
+            </p>
+            <lg>
+               <l>COme hearken to me whilst the truth I do write,</l>
+               <l>For in telling of Lies, I take no Delight;</l>
+               <l>Nowfain would I tell you, since I have begun;</l>
+               <l>
+                  <hi>When Popery out of this Nation will run.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When Misers do Money refuse and deny,</l>
+               <l>When the Monuments top shall reach to the sky:</l>
+               <l>When the Moon is as big, &amp; more bright then the Sun,</l>
+               <l>
+                  <hi>then Popery out of this Nation will run.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>&amp; when ye shall see two Monks Poyson the Fryers,</l>
+               <l>Because they are both Deceitful and Lyers:</l>
+               <l>when the Subjects of England shall all be as one,</l>
+               <l>
+                  <hi>then Popery out of this Nation will run.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And when ye shall see the Duke of <hi>Lorrain,</hi>
+               </l>
+               <l>Be begg'd to receive his Country again:</l>
+               <l>when the <hi>French</hi> K. surrenders all that he hath won,</l>
+               <l>
+                  <hi>then Popery out of this Nation will run.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>when you see a Pismire swallow a whale,</l>
+               <l>And when the salt Sea shall be filled with Ale:</l>
+               <l>when men shall rejoyce that they'r brake and undone:</l>
+               <l>
+                  <hi>then Popery, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>when there is not a whore to be found in this Land,</l>
+               <l>And dumb men shall speak that ye may understand:</l>
+               <l>when ye read of Laws made e're the world was begun,</l>
+               <l>
+                  <hi>then Popery, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>VVHen silver &amp; gold shall be nothing esteem'd,</l>
+               <l>&amp; christian-slaves by fair words be redeem'd</l>
+               <l>when Sack down the Channels like water shall run</l>
+               <l>
+                  <hi>then Popery out of this Land will be gone.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>when Iews shall Eat Swines-flesh as other men do,</l>
+               <l>And High-way-men they shall be honest and true:</l>
+               <l>when the Pope can forgive us our sins e'ry one;</l>
+               <l>
+                  <hi>then Popery, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And when ye shall see the Sun rise in the <hi>South,</hi>
+               </l>
+               <l>And Men shall Eat Victuals that has not a Mouth:</l>
+               <l>when the stars from the sky shall fall every one,</l>
+               <l>
+                  <hi>then Popery, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>when Apples and Pears shall grow on the Bryers,</l>
+               <l>And Meat shall be Roasted without any Fires:</l>
+               <l>And Poor Men to Prisons for Maintainance come,</l>
+               <l>
+                  <hi>Then Popery, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>when the Fish of the sea shall flye in the ayr,</l>
+               <l>&amp; Men shall wear wiggs that are made without hair</l>
+               <l>when all sorts of silks shall by Munkeys be spun,</l>
+               <l>
+                  <hi>then Popery, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>when Horses shall Run without any Leggs,</l>
+               <l>when Hens shall draw Carts, and Oxon lay Eggs:</l>
+               <l>when gamesters refuse to take what they have won</l>
+               <l>
+                  <hi>then Popery, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>when News-Mongers they do refuse the great gain</l>
+               <l>That comes by their pamplets, though they are prophane:</l>
+               <l>And women at Christnings they hold their tongue,</l>
+               <l>
+                  <hi>then Popery out of this Land will be gone.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> F. Coles, T. Vere, J. Wright, <hi>and</hi> J. Clarke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
